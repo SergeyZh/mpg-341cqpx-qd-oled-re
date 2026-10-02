@@ -1,0 +1,9 @@
+address,name
+0x000DC710,NVRAM_ReadGroup
+0x000DD224,NVRAM_WriteGroup
+0x000E6F9C,SYSAPI_ReadEEPROM
+0x000E7050,SYSAPI_WriteEEPROM
+0x000D0638,MailBox_LoadFE2P
+0x0006FEE0,UserLoadSettingsAndSerialWithDefaults
+0x00070D1C,UserCopyCurrentSettingsToProfile
+0x00074840,UserLoadProfileField

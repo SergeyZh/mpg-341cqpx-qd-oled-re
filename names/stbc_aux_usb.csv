@@ -1,0 +1,29 @@
+# CODE id=0x02 (8051 base 0); FW.023/.034/.037 identical; file offset = address + 0x020000
+# Research names; evidence and ABI: docs/usb-flash-bootloader.md
+address,name
+0x00003E68,USBFS_LoadFile
+0x0000467E,USBHost_Enumerate
+0x00005219,USBHost_ControlRequest
+0x000069DA,USBHost_SubmitQTD
+0x00006E16,USBHost_ChannelPoll
+0x000076B4,USBMSC_BulkOnlyTransfer
+0x0000813C,USBFS_ReadEntryMetadata
+0x00008A0E,USBHost_BulkTransfer
+0x00008CDC,USBFS_Mount
+0x00008F95,USBHost_BuildQH
+0x0000999F,CopySwapWords
+0x00009B91,USBHC_ReadReg32
+0x00009D97,USBFS_LoadSelectedFile
+0x0000A36C,USBAux_MailboxDispatch
+0x0000A547,USBImage_ParseHeaders
+0x0000A6FA,USBHost_SelectChannel
+0x0000ABCE,USBDMA_ReadBlocks
+0x0000B1A9,USBDMA_WriteBlocks
+0x0000B317,USBHC_WriteReg32
+0x0000B5B4,USBAux_Main
+0x0000B706,USBHost_Init
+0x0000C60E,USBMSC_Read10
+0x0000CBD9,USBMSC_ReadToLocal
+0x0000CFA5,USBAux_SetDMABase
+0x0000D6D1,USBFS_ReadToFileDMA
+0x0000DB76,USBImage_CheckSignature

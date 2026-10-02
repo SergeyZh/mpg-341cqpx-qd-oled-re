@@ -1,0 +1,6 @@
+address,name
+0x000C0D20,Indicator_WhiteOn
+0x000C0D88,Indicator_WhiteOff
+0x000C0DF0,Indicator_YellowOn
+0x000C0E58,Indicator_YellowOff
+0x00077D4C,Indicator_ApplyUserEnable

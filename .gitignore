@@ -1,0 +1,15 @@
+.venv/
+out/
+ghidra/
+build/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Файлы MSI и дампы экземпляров в репозиторий не коммитятся (AGENTS.md).
+MSI_*.bin
+*.zip
+*.pcapng
+*.sal
+flash/
+captures/

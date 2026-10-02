@@ -1,0 +1,10 @@
+address,name
+0x40006374,DRV_LDC_SetPanelResolution
+0x40006434,DRV_LDC_UpdateSegmentBoundary
+0x4000660C,DRV_LDC_SetLDCSegment
+0x400066D4,DRV_LDC_SetDSRegisters
+0x40006904,DRV_LDC_Intensity_Gain_Update
+0x400077A4,LED_AS3824_SetPwmPeriod
+0x40007998,LED_AS3824_Unlock
+0x400079B8,LED_AS3824_Init
+0x40000FB4,LDC_LoadPanel

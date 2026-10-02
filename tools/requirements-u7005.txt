@@ -1,0 +1,6 @@
+# Устанавливать только так: .venv/bin/python -m pip install -r tools/requirements-u7005.txt
+# Прямые зависимости разработки U7005; это не полный lock транзитивных пакетов.
+pyocd==0.45.1
+hidapi==0.15.0
+pyelftools==0.33
+pytest==9.1.1

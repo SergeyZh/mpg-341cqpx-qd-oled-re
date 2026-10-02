@@ -1,0 +1,6 @@
+# адреса CODE образа id=0x01 (8051, база 0); файловое смещение = адрес + 0x010000
+address,name
+0x0000AF70,I2C_EnableChannels
+0x0000CDFB,I2C_SetSlaveAddress
+0x0000D348,I2C_SetChannelBit6
+0x000025BD,MB_Cmd_I2C_SLAVE_ENABLE
