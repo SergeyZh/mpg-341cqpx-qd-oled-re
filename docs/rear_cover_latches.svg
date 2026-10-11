@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1180" viewBox="0 0 1440 1180" font-family="Helvetica, Arial, sans-serif">
+<rect width="1440" height="1180" fill="#fff"/>
+<g transform="translate(40,100)">
+
+<rect x="20" y="15" width="1305" height="583" rx="7" fill="#fbfbfb" stroke="#222" stroke-width="2.5"/>
+<path d="M22,482 L110,450 M40,484 L40,596 M22,484 L40,484" fill="none" stroke="#222" stroke-width="1.6"/>
+<path d="M1235,450 L1322,478 M1302,478 L1302,596 M1302,478 L1322,478" fill="none" stroke="#222" stroke-width="1.6"/>
+<path d="M145,186 Q672,140 1200,186 Q1232,190 1233,222 L1230,495 Q1228,522 1195,525 L150,525
+         Q114,522 112,495 L110,222 Q110,188 145,186 Z" fill="#f1f1f1" stroke="#222" stroke-width="2.6"/>
+<path d="M150,210 Q672,166 1193,210 Q1222,212 1222,240 L1221,492 Q1220,514 1190,516 L155,516
+         Q121,514 120,492 L119,240 Q119,212 150,210 Z" fill="none" stroke="#222" stroke-width="1.1"/>
+<path d="M150,203 Q672,159 1195,203" fill="none" stroke="#222" stroke-width="6" stroke-dasharray="5 3"/>
+<path d="M150,203 Q672,159 1195,203" fill="none" stroke="#f1f1f1" stroke-width="3" stroke-dasharray="5 3"/>
+<path d="M265,529 L610,529 M735,529 L850,529" fill="none" stroke="#222" stroke-width="6" stroke-dasharray="5 3"/>
+<path d="M265,529 L610,529 M735,529 L850,529" fill="none" stroke="#fbfbfb" stroke-width="3" stroke-dasharray="5 3"/>
+<path d="M245,532 L215,590 M283,525 L283,596 M490,525 L490,596" fill="none" stroke="#222" stroke-width="1.6"/>
+<path d="M1085,532 L1128,592 L1300,592" fill="none" stroke="#222" stroke-width="1.6"/>
+<rect x="398" y="525" width="64" height="22" rx="2" fill="#fff" stroke="#222" stroke-width="2"/>
+<path d="M420,537 q5,-6 10,0 t10,0" fill="none" stroke="#222" stroke-width="1.6"/>
+<rect x="850" y="525" width="233" height="20" fill="#fff" stroke="#222" stroke-width="2"/>
+<rect x="1062" y="525" width="21" height="20" fill="#fff" stroke="#222" stroke-width="1.6"/>
+<rect x="1219" y="554" width="12" height="7" rx="3" fill="none" stroke="#222" stroke-width="1.6"/>
+<rect x="1220" y="568" width="10" height="8" fill="none" stroke="#222" stroke-width="1.6"/>
+<path d="M1222,568 v-3 a3,3 0 0 1 6,0 v3" fill="none" stroke="#222" stroke-width="1.6"/>
+<rect x="570" y="262" width="203" height="196" rx="7" fill="#e9e9e9" stroke="#222" stroke-width="2"/>
+<path d="M655,196 L655,265 M663,196 L663,265 M680,196 L680,265 M690,196 L690,265" stroke="#222" stroke-width="1.6"/>
+
+
+<g fill="none" stroke="#9a9a9a" stroke-width="2" stroke-dasharray="7 5">
+<path d="M622,300 Q620,270 672,268 Q725,270 724,300 L740,812 L605,812 Z"/>
+<path d="M650,300 L660,780 M700,300 L690,780"/>
+<path d="M625,812 L625,835 L718,835 L718,812"/>
+<path d="M600,822 L165,850 L170,860 L560,845 M745,822 L1180,850 L1175,860 L790,845"/>
+<path d="M552,822 Q575,812 600,822 L598,855 L556,858 Z M745,822 Q770,812 793,822 L790,858 L748,855 Z"/>
+</g>
+
+<line x1="672" y1="120" x2="672" y2="640" stroke="#9a9a9a" stroke-width="1.4" stroke-dasharray="18 6 3 6"/>
+<text x="672" y="112" font-size="17" text-anchor="middle" font-weight="normal" fill="#666">ось</text>
+<line x1="430" y1="547" x2="430" y2="618" stroke="#222" stroke-width="1.2"/>
+<text x="430" y="640" font-size="19" text-anchor="middle" font-weight="normal" fill="#222">питание 230 В</text>
+<line x1="966" y1="545" x2="966" y2="618" stroke="#222" stroke-width="1.2"/>
+<text x="966" y="640" font-size="19" text-anchor="middle" font-weight="normal" fill="#222">HDMI · HDMI · DP · USB-C · USB-A · USB-B · наушники</text>
+<line x1="1225" y1="578" x2="1225" y2="650" stroke="#222" stroke-width="1.2"/>
+<text x="1225" y="672" font-size="19" text-anchor="middle" font-weight="normal" fill="#222">замок Kensington</text>
+<text x="672" y="760" font-size="17" text-anchor="middle" font-weight="normal" fill="#888">подставка (контуром)</text>
+<text x="1100" y="300" font-size="22" text-anchor="middle" font-weight="normal" fill="#777">задняя крышка</text>
+<text x="1100" y="326" font-size="18" text-anchor="middle" font-weight="normal" fill="#777">(вид сзади)</text>
+<text x="20" y="-58" font-size="30" text-anchor="start" font-weight="bold" fill="#222">MSI MPG 341CQPX QD-OLED — защёлки задней крышки</text>
+<text x="20" y="-26" font-size="18" text-anchor="start" font-weight="normal" fill="#444">Вид сзади: левый край рисунка — правый край экрана, если смотреть спереди. Масштаб по ширине 812 мм.</text>
+<line x1="223.3" y1="224.7" x2="223.3" y2="195.7" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="223.3,182.7 229.3,195.7 217.3,195.7" fill="#1f5fbf"/>
+<line x1="236.2" y1="223.7" x2="236.2" y2="194.7" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="236.2,181.7 242.2,194.7 230.2,194.7" fill="#1f5fbf"/>
+<line x1="343.8" y1="216.9" x2="343.8" y2="187.9" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="343.8,174.9 349.8,187.9 337.8,187.9" fill="#1f5fbf"/>
+<line x1="356.7" y1="216.2" x2="356.7" y2="187.2" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="356.7,174.2 362.7,187.2 350.7,187.2" fill="#1f5fbf"/>
+<line x1="472.4" y1="211.3" x2="472.4" y2="182.3" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="472.4,169.3 478.4,182.3 466.4,182.3" fill="#1f5fbf"/>
+<line x1="485.3" y1="210.9" x2="485.3" y2="181.9" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="485.3,168.9 491.3,181.9 479.3,181.9" fill="#1f5fbf"/>
+<line x1="609.0" y1="208.3" x2="609.0" y2="179.3" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="609.0,166.3 615.0,179.3 603.0,179.3" fill="#1f5fbf"/>
+<line x1="621.9" y1="208.2" x2="621.9" y2="179.2" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="621.9,166.2 627.9,179.2 615.9,179.2" fill="#1f5fbf"/>
+<line x1="723.1" y1="208.2" x2="723.1" y2="179.2" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="723.1,166.2 729.1,179.2 717.1,179.2" fill="#1f5fbf"/>
+<line x1="736.0" y1="208.3" x2="736.0" y2="179.3" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="736.0,166.3 742.0,179.3 730.0,179.3" fill="#1f5fbf"/>
+<line x1="859.7" y1="210.9" x2="859.7" y2="181.9" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="859.7,168.9 865.7,181.9 853.7,181.9" fill="#1f5fbf"/>
+<line x1="872.6" y1="211.3" x2="872.6" y2="182.3" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="872.6,169.3 878.6,182.3 866.6,182.3" fill="#1f5fbf"/>
+<line x1="988.3" y1="216.2" x2="988.3" y2="187.2" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="988.3,174.2 994.3,187.2 982.3,187.2" fill="#1f5fbf"/>
+<line x1="1001.2" y1="216.9" x2="1001.2" y2="187.9" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="1001.2,174.9 1007.2,187.9 995.2,187.9" fill="#1f5fbf"/>
+<line x1="1108.8" y1="223.7" x2="1108.8" y2="194.7" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="1108.8,181.7 1114.8,194.7 1102.8,194.7" fill="#1f5fbf"/>
+<line x1="1121.7" y1="224.7" x2="1121.7" y2="195.7" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="1121.7,182.7 1127.7,195.7 1115.7,195.7" fill="#1f5fbf"/>
+<line x1="215.0" y1="570.0" x2="215.0" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="215.0,528.0 221.0,541.0 209.0,541.0" fill="#d0342c"/>
+<line x1="291.6" y1="570.0" x2="291.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="291.6,528.0 297.6,541.0 285.6,541.0" fill="#d0342c"/>
+<line x1="304.4" y1="570.0" x2="304.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="304.4,528.0 310.4,541.0 298.4,541.0" fill="#d0342c"/>
+<line x1="379.6" y1="570.0" x2="379.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="379.6,528.0 385.6,541.0 373.6,541.0" fill="#d0342c"/>
+<line x1="392.4" y1="570.0" x2="392.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="392.4,528.0 398.4,541.0 386.4,541.0" fill="#d0342c"/>
+<line x1="470.6" y1="570.0" x2="470.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="470.6,528.0 476.6,541.0 464.6,541.0" fill="#d0342c"/>
+<line x1="483.4" y1="570.0" x2="483.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="483.4,528.0 489.4,541.0 477.4,541.0" fill="#d0342c"/>
+<line x1="599.6" y1="570.0" x2="599.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="599.6,528.0 605.6,541.0 593.6,541.0" fill="#d0342c"/>
+<line x1="612.4" y1="570.0" x2="612.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="612.4,528.0 618.4,541.0 606.4,541.0" fill="#d0342c"/>
+<line x1="728.6" y1="570.0" x2="728.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="728.6,528.0 734.6,541.0 722.6,541.0" fill="#d0342c"/>
+<line x1="741.4" y1="570.0" x2="741.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="741.4,528.0 747.4,541.0 735.4,541.0" fill="#d0342c"/>
+<line x1="817.6" y1="570.0" x2="817.6" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="817.6,528.0 823.6,541.0 811.6,541.0" fill="#d0342c"/>
+<line x1="830.4" y1="570.0" x2="830.4" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="830.4,528.0 836.4,541.0 824.4,541.0" fill="#d0342c"/>
+<line x1="1103.0" y1="570.0" x2="1103.0" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1103.0,528.0 1109.0,541.0 1097.0,541.0" fill="#d0342c"/>
+<line x1="1156.0" y1="570.0" x2="1156.0" y2="541.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1156.0,528.0 1162.0,541.0 1150.0,541.0" fill="#d0342c"/>
+<line x1="66.0" y1="247.6" x2="95.0" y2="247.6" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,247.6 95.0,253.6 95.0,241.6" fill="#d0342c"/>
+<line x1="66.0" y1="260.4" x2="95.0" y2="260.4" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,260.4 95.0,266.4 95.0,254.4" fill="#d0342c"/>
+<line x1="1277.0" y1="247.6" x2="1248.0" y2="247.6" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,247.6 1248.0,241.6 1248.0,253.6" fill="#d0342c"/>
+<line x1="1277.0" y1="260.4" x2="1248.0" y2="260.4" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,260.4 1248.0,254.4 1248.0,266.4" fill="#d0342c"/>
+<line x1="66.0" y1="330.6" x2="95.0" y2="330.6" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,330.6 95.0,336.6 95.0,324.6" fill="#d0342c"/>
+<line x1="66.0" y1="343.4" x2="95.0" y2="343.4" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,343.4 95.0,349.4 95.0,337.4" fill="#d0342c"/>
+<line x1="1277.0" y1="330.6" x2="1248.0" y2="330.6" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,330.6 1248.0,324.6 1248.0,336.6" fill="#d0342c"/>
+<line x1="1277.0" y1="343.4" x2="1248.0" y2="343.4" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,343.4 1248.0,337.4 1248.0,349.4" fill="#d0342c"/>
+<line x1="66.0" y1="403.0" x2="95.0" y2="403.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,403.0 95.0,409.0 95.0,397.0" fill="#d0342c"/>
+<line x1="1277.0" y1="403.0" x2="1248.0" y2="403.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,403.0 1248.0,397.0 1248.0,409.0" fill="#d0342c"/>
+<line x1="66.0" y1="449.0" x2="95.0" y2="449.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="108.0,449.0 95.0,455.0 95.0,443.0" fill="#d0342c"/>
+<line x1="1277.0" y1="449.0" x2="1248.0" y2="449.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1235.0,449.0 1248.0,443.0 1248.0,455.0" fill="#d0342c"/>
+<line x1="86.3" y1="164.3" x2="106.8" y2="184.8" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="116.0,194.0 102.6,189.1 111.1,180.6" fill="#d0342c"/>
+<line x1="1255.7" y1="165.3" x2="1235.2" y2="185.8" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1226.0,195.0 1230.9,181.6 1239.4,190.1" fill="#d0342c"/>
+<line x1="1251.7" y1="547.7" x2="1231.2" y2="527.2" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="1222.0,518.0 1235.4,522.9 1226.9,531.4" fill="#d0342c"/>
+<line x1="90.3" y1="547.7" x2="110.8" y2="527.2" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="120.0,518.0 115.1,531.4 106.6,522.9" fill="#d0342c"/>
+</g>
+<g transform="translate(60,1030)">
+<line x1="20.0" y1="28.0" x2="20.0" y2="-1.0" stroke="#1f5fbf" stroke-width="3.2" stroke-linecap="round"/><polygon points="20.0,-14.0 26.0,-1.0 14.0,-1.0" fill="#1f5fbf"/>
+<text x="48" y="14" font-size="19" fill="#222">верхний край: зацепка на корпусе монитора, в крышке отверстие — 8 пар, 16 шт.; положения измерены</text>
+<line x1="20.0" y1="82.0" x2="20.0" y2="53.0" stroke="#d0342c" stroke-width="3.2" stroke-linecap="round"/><polygon points="20.0,40.0 26.0,53.0 14.0,53.0" fill="#d0342c"/>
+<text x="48" y="68" font-size="19" fill="#222">низ, бока и углы: зацепка на самой крышке — низ 15, бока по 6, углы 4; положения по эскизу</text>
+<text x="48" y="118" font-size="19" font-weight="bold" fill="#222">Всего 47 защёлок. Стрелка — бугорок зацепки и направление зацепа; двойная — зубцы через 8 мм.</text>
+</g>
+</svg>
